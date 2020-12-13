@@ -8,3 +8,8 @@ git clone https://github.com/Tech-abm/Encrypt
 cd Encrypt 
 python2 enc.py
 ```
+# Tool user and password 
+```
+Username > Abm
+Password > Abm
+```
