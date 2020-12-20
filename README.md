@@ -3,6 +3,7 @@
 ```
 apt update && apt upgrade 
 apt install git 
+apt install base64
 apt install python2 
 git clone https://github.com/Tech-abm/Encrypt
 cd Encrypt 
